@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
-
+//Tung ngu
 namespace BilliardApp
 {
     public partial class Form1 : Form
